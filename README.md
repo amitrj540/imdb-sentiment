@@ -1,3 +1,7 @@
+[![python-3.7.9](https://img.shields.io/badge/python-3.7.9-blue)](https://www.python.org/downloads/release/python-379/)
+[![scikit-learn-0.23.2](https://img.shields.io/badge/scikit--learn-0.23.2-blue)](https://pypi.org/project/scikit-learn/0.23.2/)
+[![nltk-3.5](https://img.shields.io/badge/nltk-3.5-blue)](https://pypi.org/project/nltk/3.5/)
+[![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-green)](https://www.gnu.org/licenses/gpl-3.0)
 # Sentiment Analysis model on IMDB reviews
 
 ### Data description :
