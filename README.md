@@ -17,4 +17,4 @@ This data contains 50K movie reviews posted on IMDB website. The data is divided
 * Perform sanity check.
 -----
 Large Movie Review Dataset<br>
-Source : http://ai.stanford.edu/~amaas/data/sentiment/aclImdb_v1.tar.gz
+Source : http://ai.stanford.edu/~amaas/data/sentiment/
